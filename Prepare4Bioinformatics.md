@@ -37,6 +37,7 @@ VirtualBox is a virtualization server from Oracle. Please follow the instruction
         12. `touch` – create a file (if name doesn’t exist) or update the file to the current time. Also create a file with a specific date and time.
         13. `exit` – leave the current shell (closes shell and terminal window)
 
+## Bash Resources  
 **Elementary Bash**: 
 >[Bash for beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) (start here)
 > [Intro to Bash syntax and tools](https://opensource.com/article/19/10/programming-bash-syntax-tools)
