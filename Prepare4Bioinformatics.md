@@ -15,7 +15,7 @@ VirtualBox is a virtualization server from Oracle. Please follow the instruction
 
         1. The underlying operating system of MacOS is a variant of Unix derived from the NEXT OS (built as a variant of UNIX without
         the proprietary UNIX constraints, not unlike Linux).  
-        2. One can try to follow the Bash exercises in the Mac terminal (bash is usually the default shell). If you experience problems, type “echo $0” and record the name of the shell. If
+        2. One can try to follow the Bash exercises in the Mac terminal (~~bash~~ zsh is usually the default shell). If you experience problems, type “echo $0” and record the name of the shell. If
         it is not bash, it might be best to install VirtualBox and Ubuntu.  
 
 
